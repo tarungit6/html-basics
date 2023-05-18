@@ -33,5 +33,10 @@ learning html basics projects
       <td>Activity5</td>
       <td>create a external css, and link it using link tag</td>
     </tr>
+    <tr>
+      <td>6</td>
+      <td>Activity6</td>
+      <td>Insert Icon on we development</td>
+    </tr>
   </tr>
 </table>
