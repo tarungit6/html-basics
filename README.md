@@ -28,5 +28,10 @@ learning html basics projects
       <td>Activity4</td>
       <td>No script tag</td>
     </tr>
+    <tr>
+      <td>5</td>
+      <td>Activity5</td>
+      <td>create a external css, and link it using link tag</td>
+    </tr>
   </tr>
 </table>
