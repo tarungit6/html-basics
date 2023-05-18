@@ -26,7 +26,7 @@ learning html basics projects
   <tr>
       <td>4</td>
       <td>Activity4</td>
-      <td>Understanding external javascript</td>
+      <td>No script tag</td>
     </tr>
   </tr>
 </table>
