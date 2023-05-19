@@ -43,5 +43,10 @@ learning html basics projects
       <td>Activity7</td>
       <td>title for web documents</td>
     </tr>
+    <tr>
+      <td>8</td>
+      <td>Activity8</td>
+      <td>internal style sheet</td>
+    </tr>
   </tr>
 </table>
