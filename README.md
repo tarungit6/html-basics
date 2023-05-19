@@ -63,5 +63,10 @@ learning html basics projects
       <td>Activity11</td>
       <td>Anchor Tag</td>
     </tr>
+    <tr>
+      <td>12</td>
+      <td>Activity12</td>
+      <td>HTML Entites and HTML Comments</td>
+    </tr>
   </tr>
 </table>
