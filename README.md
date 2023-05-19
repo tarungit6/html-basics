@@ -48,5 +48,10 @@ learning html basics projects
       <td>Activity8</td>
       <td>internal style sheet</td>
     </tr>
+    <tr>
+      <td>9</td>
+      <td>Activity9</td>
+      <td>Redirect web page after 5 sec</td>
+    </tr>
   </tr>
 </table>
