@@ -38,5 +38,10 @@ learning html basics projects
       <td>Activity6</td>
       <td>Insert Icon on we development</td>
     </tr>
+    <tr>
+      <td>7</td>
+      <td>Activity7</td>
+      <td>title for web documents</td>
+    </tr>
   </tr>
 </table>
