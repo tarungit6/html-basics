@@ -58,5 +58,10 @@ learning html basics projects
       <td>Activity10</td>
       <td>Backgroung Image for Body</td>
     </tr>
+    <tr>
+      <td>11</td>
+      <td>Activity11</td>
+      <td>Anchor Tag</td>
+    </tr>
   </tr>
 </table>
