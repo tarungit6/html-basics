@@ -53,5 +53,10 @@ learning html basics projects
       <td>Activity9</td>
       <td>Redirect web page after 5 sec</td>
     </tr>
+     <tr>
+      <td>10</td>
+      <td>Activity10</td>
+      <td>Backgroung Image for Body</td>
+    </tr>
   </tr>
 </table>
