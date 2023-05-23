@@ -93,5 +93,10 @@ learning html basics projects
       <td>Activity17</td>
       <td>HR and BR in HTMl</td>
     </tr>
+    <tr>
+      <td>18</td>
+      <td>Activity18</td>
+      <td>Div tag in HTMl</td>
+    </tr>
   </tr>
 </table>
