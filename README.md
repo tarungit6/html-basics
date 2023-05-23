@@ -78,5 +78,10 @@ learning html basics projects
       <td>Activity14</td>
       <td>Provide border for the table</td>
     </tr>
+    <tr>
+      <td>15</td>
+      <td>Activity15</td>
+      <td>Heading from H1 to H6</td>
+    </tr>
   </tr>
 </table>
