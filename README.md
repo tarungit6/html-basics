@@ -68,5 +68,10 @@ learning html basics projects
       <td>Activity12</td>
       <td>HTML Entites and HTML Comments</td>
     </tr>
+    <tr>
+      <td>13</td>
+      <td>Activity13</td>
+      <td>Table Creation</td>
+    </tr>
   </tr>
 </table>
