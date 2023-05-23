@@ -73,5 +73,10 @@ learning html basics projects
       <td>Activity13</td>
       <td>Table Creation</td>
     </tr>
+    <tr>
+      <td>14</td>
+      <td>Activity14</td>
+      <td>Provide border for the table</td>
+    </tr>
   </tr>
 </table>
