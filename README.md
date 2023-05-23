@@ -83,5 +83,10 @@ learning html basics projects
       <td>Activity15</td>
       <td>Heading from H1 to H6</td>
     </tr>
+    <tr>
+      <td>16</td>
+      <td>Activity16</td>
+      <td>Paragraphs in HTMl</td>
+    </tr>
   </tr>
 </table>
