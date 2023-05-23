@@ -88,5 +88,10 @@ learning html basics projects
       <td>Activity16</td>
       <td>Paragraphs in HTMl</td>
     </tr>
+    <tr>
+      <td>17</td>
+      <td>Activity17</td>
+      <td>HR and BR in HTMl</td>
+    </tr>
   </tr>
 </table>
